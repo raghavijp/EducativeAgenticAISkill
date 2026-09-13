@@ -4,7 +4,7 @@ import logging
 from mcp.server.fastmcp import FastMCP
 from pathlib import Path
 
-OPENWEATHERMAP_API_KEY = "c149492b5bbf0d2ee6a6aa30090a4eae"
+OPENWEATHERMAP_API_KEY = ""
 
 # Initialize the FastMCP server
 mcp = FastMCP("WeatherAssistant")
